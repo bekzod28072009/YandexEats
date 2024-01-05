@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexEatsAPI", "YandexEatsAPI\YandexEatsAPI.csproj", "{84DD8BE9-D168-48D8-BD1D-708FC46BD2CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexEats.Domain", "YandexEats.Domain\YandexEats.Domain.csproj", "{2E61F392-1AD8-443B-ADD2-B8AE960CF980}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{84DD8BE9-D168-48D8-BD1D-708FC46BD2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84DD8BE9-D168-48D8-BD1D-708FC46BD2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84DD8BE9-D168-48D8-BD1D-708FC46BD2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E61F392-1AD8-443B-ADD2-B8AE960CF980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E61F392-1AD8-443B-ADD2-B8AE960CF980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E61F392-1AD8-443B-ADD2-B8AE960CF980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E61F392-1AD8-443B-ADD2-B8AE960CF980}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
