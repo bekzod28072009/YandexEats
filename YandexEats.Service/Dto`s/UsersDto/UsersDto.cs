@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using YandexEats.Domain.Entities.Foods;
-using YandexEats.Service.Dto_s.FoodsDto;
+﻿using YandexEats.Service.Dto_s.FoodsDto;
 
 namespace YandexEats.Service.Dto_s.UsersDto
 {
