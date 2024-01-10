@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\YandexEats.Domain\YandexEats.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
