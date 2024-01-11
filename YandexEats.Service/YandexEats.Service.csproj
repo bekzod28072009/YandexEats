@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\YandexEats.Data\YandexEats.Data.csproj" />
     <ProjectReference Include="..\YandexEats.Domain\YandexEats.Domain.csproj" />
   </ItemGroup>
 
