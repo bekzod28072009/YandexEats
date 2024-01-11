@@ -5,6 +5,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
+using YandexEats.Data.IRepository;
 using YandexEats.Domain.Entities.Users;
 using YandexEats.Service.Dto_s.UsersDto;
 using YandexEats.Service.IService.IUsersServices;
