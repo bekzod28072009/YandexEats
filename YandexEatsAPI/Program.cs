@@ -10,8 +10,8 @@ builder.Services.AddControllers();
 
 builder.Services.AddDbConTextes(builder.Configuration);
 builder.Services.AddAutoMapper(typeof(Program));
-
-
+builder.Services.AddService();
+builder.Services.AddRepository();
 
 
 builder.Services.AddEndpointsApiExplorer();
